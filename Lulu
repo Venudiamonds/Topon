@@ -1,7 +1,7 @@
 {
-   "app_redirectOtherAppStatus":"0",
+   "app_redirectOtherAppStatus":"1",
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
-   "app_AppOpenAdStatus":"0",
+   "app_AppOpenAdStatus":"1",
    "admob_Appopen":"ca-app-pub-3940256099942544/3419835294",
    "qureka":"https://103.go.mglgamez.com",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
